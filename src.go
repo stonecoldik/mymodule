@@ -1,4 +1,4 @@
-package mymodule
+package github.com/stonecoldik/mymodule
 
 import "fmt"
 
